@@ -1,0 +1,1 @@
+This is a simple demonstration of std::variant and std::visit. 
